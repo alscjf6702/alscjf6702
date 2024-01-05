@@ -1,5 +1,7 @@
-### 안녕하세요! 백엔드 웹개발자 김민철 입니다! 👋
 
+### <div align=center>안녕하세요! 백엔드 웹개발자 김민철 입니다! 👋</div>
+<br><br>
+<div align=center>
 - 🌱 현재 배우고 사용하는 스킬은... <br>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -15,15 +17,18 @@
     <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-
-- 🔭 백엔드 웹개발자로서의 취업을 기대하며 새로운 것을 알아나가는 재미로 하루하루를 보내고 있습니다.<br>
-
-- ⚡ 경력<br>
+</div>
+<br><br>
+<div align=center>
+ 🔭 백엔드 웹개발자로서의 취업을 기대하며 새로운 것을 알아나가는 재미로 하루하루를 보내고 있습니다.<br>
+</div>
+<br><br>
+<div align=center>⚡ 경력<br>
 ➕ 이젠 컴퓨터아카데미 2023.07 ~ 2024.01 -> [ AWS 클라우드 기반 CS(자바) 개발자 양성 과정 ]<br>
 ➕ 소리안 (기술지원부) 2019.02 ~ 2023.06 -> [ 국가지원 장애보장구 기술지원 ]<br>
 ➕ DMC System (해외원격관리부) 2017.06 ~ 2019.02 -> [ 해외거주 삼성 PC 외국인 고객 PC 관리 ]<br>
 ➕ 캐나다 어학연수 2009.02 ~ 2011.07 -> [ 어학연수(캐나다 현지 학교 재학 / 외국인 홈스테이) ]<br>
-
+</div>
 
 
 <!--
@@ -39,3 +44,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br><br>
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
