@@ -1,7 +1,7 @@
 
 ### <div align=center>안녕하세요! 백엔드 웹개발자 김민철 입니다! 👋</div>
 <br><br>
-<div align=center>
+<div align=center> 
 - 🌱 현재 배우고 사용하는 스킬은... <br>
     <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=openjdk&logoColor=white"
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
