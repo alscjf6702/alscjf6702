@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=Spring Security&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
     
-	
+	 
 </div>
 <br><br>
 <div align=center>
