@@ -33,11 +33,12 @@
 ➕ DMC System (해외원격관리부) 2017.06 ~ 2019.02 -> [ 삼성 PC 해외거주 외국인/국내 고객 PC 원격관리 ]<br>
 ➕ 캐나다 어학연수 2009.02 ~ 2011.07 -> [ 어학연수(캐나다 현지 학교 재학 / 외국인 홈스테이) ]<br>
 </div>
-
+<div align=center>
 📫자격증<br>
 정보처리기사 필기(2024-02합격)<br>
 SQLD 준비 중...(2024-03-09 시험)<br>
 정보처리기사 실기 준비 중...(2024-05~2024-06) 시험 일정 예정<br>
+</div>
 <!--
 **alscjf6702/alscjf6702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
