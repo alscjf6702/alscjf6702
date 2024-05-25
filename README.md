@@ -3,24 +3,34 @@
 <br><br>
 <div align=center> 
 - 🌱 현재 배우고 사용하는 스킬은... <br>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=openjdk&logoColor=white"
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
+
+•BE : &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=Spring Security&logoColor=white">
+<br>
+
+•FE : &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=Thymeleaf&logoColor=white">
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"/>
+	<br>
+ 
+•Database : &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white">
+<br>
+
+•ETC : &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=plastic&logo=IntelliJ IDEA&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse IDEA-2C2255?style=plastic&logo=eclipseide&logoColor=white">
-    <br>
     <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Amazone EC2-FF9900?style=plastic&logo=amazonec2&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=Spring Security&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
+   
     
-	 
 </div>
 <br><br> 
 <div align=center>
