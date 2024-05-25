@@ -37,7 +37,7 @@
 📫자격증<br>
 정보처리기사 필기 합격 (2024-02 합격)<br>
 SQLD 자격증 합격 (2024-03 합격)<br>
-정보처리기사 실기 준비 중...(2024-04-26) 실기 시험 예정<br>
+정보처리기사 실기 (2024-06-18 합격 발표 )<br>
 </div>
 <!--
 **alscjf6702/alscjf6702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
